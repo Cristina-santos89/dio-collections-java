@@ -68,6 +68,7 @@ public class CatalogoLivros{
         catalogoLivros.adicionarLivro("Livro 4", "Autor 4", 1994);
         System.out.println(catalogoLivros.pesquisarPorAutor("Autor 2"));
         System.out.println(catalogoLivros.pesquisarPorIntervaloAnos(2020,2021));
+        System.out.println(catalogoLivros.pesquisarPorTitulo("Livro 1"));
         }
     }
 
