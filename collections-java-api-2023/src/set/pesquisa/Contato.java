@@ -2,7 +2,6 @@ package set.pesquisa;
 
 import java.util.Objects;
 
-import set.operacoesbasicas.Convidado;
 
 public class Contato {
 //Atributos
